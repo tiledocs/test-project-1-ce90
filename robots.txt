@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hub.tiledocs.com/test-project-1-ce90/sitemap_index.xml
